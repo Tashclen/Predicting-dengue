@@ -49,6 +49,8 @@ ndvi_nw – Pixel northwest of city centroid
 
 
 1 EDA: Exploring and cleaning the files.
+
 2 Pickle: Pickling the files ready to use for modelling.
+
 3 Models: Various models.
 
